@@ -1,1 +1,0 @@
-How to remove border from input when active?
