@@ -40,14 +40,14 @@ section {
   width:50%;
 }
 
-div.mic {
+.search-bar {
   border:blue solid 1px;
   height:20px;
   margin:auto;
   width:300px;
 }
 
-span.mic {
+.mic {
   float:right;
 }
 
