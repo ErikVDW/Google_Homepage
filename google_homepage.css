@@ -81,19 +81,19 @@ section img {
 footer {
   background: #f2f2f2 ;
   bottom:0;
-  height:40px;
-  
+  height:60px;
+  line-height: 60px;
   margin:0;
   position:fixed;
   width:100%;
 }
 
 .footer-left {
-  float:left;
-  padding-left:10px;
+  float:left; 
+  padding-left:30px;
 }
 
 .footer-right {
   float:right;
-  padding:0px;
+  padding-right:30px;
 }
