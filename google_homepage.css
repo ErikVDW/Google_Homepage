@@ -64,7 +64,10 @@ input {
 input:focus, input:active {
   border-width: 0;
   border: none;
-  -webkit-appearance: none;
+  -webkit-appearance: none; 
+  margin: 0;
+  outline: none;
+  padding-left: 4px;
 }
 
 section img {
