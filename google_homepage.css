@@ -1,3 +1,4 @@
+/*TODO: Change color of search box div, and on active, hover.  Find different icons to match grey of text*/
 body {
   margin:0;
   font-family: 'Open Sans', sans-serif;
@@ -35,7 +36,7 @@ nav {
   border-width:10px;
 
 }
-section {
+section.search {
   margin:auto;
   position:relative;
   text-align:center;
